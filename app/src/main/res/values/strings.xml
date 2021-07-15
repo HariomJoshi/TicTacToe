@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ticTacToe</string>
+    <string name="Heading">Hariom\'s Tic Tac Toe</string>
+    <string name="grid">Main grid</string>
+    <string name="Zero">Image_zero</string>
+    <string name="Cross">Image2_cross</string>
+</resources>
